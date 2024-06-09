@@ -5,7 +5,7 @@ data class Data(
     val genres: List<String>,
     val id: Int,
     val images: List<String>,
-    val imdbRating: String,
+    val imdb_rating: String,
     val poster: String,
     val title: String,
     val year: String
